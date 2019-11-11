@@ -1,0 +1,2 @@
+# SolrRCE
+2019年10月31日，国外安全研究员s00py在Github公开了一个Apache Solr Velocity模板注入远程命令执行的exp
